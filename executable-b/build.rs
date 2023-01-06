@@ -1,3 +1,3 @@
 fn main() {
-    println!("cargo:rustc-link-lib=sqlite3")
+    println!("cargo:rustc-link-lib=m")
 }
